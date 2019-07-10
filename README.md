@@ -1,3 +1,5 @@
+#Daily updates for 60DaysOfUdacity
+
 Day 1:
 ----------
 As part of my foray into data analysis, I recently got my certificate in data analysis from DataCamp
