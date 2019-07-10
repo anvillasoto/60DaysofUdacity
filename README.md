@@ -152,3 +152,16 @@ With that, we can just multiply the weight of that input (which is constant) by 
 PS. I hope that I put that explanation simply and a big shoutout to @Erjan for appreciating my answer to his question about PCA.
 
 &#35;60DaysofUdacity
+
+
+Day 13:
+----------
+Milestones:
+1. Finished lesson 1 of Introduction to Neural Networks.
+
+Learnings:
+1. In creating neural networks, we'll err on the side of the complicated model and then we'll apply certain techniques to prevent overfitting. This is different from what I conceived as the right way to build models by starting at the simple solution and going up from there.
+2. That L1 can be used for feature selection since that technique creates sparse matrix that turns unimportant predictors into zeros. 
+3. That L2 regularization tends to be efficient in model training since it sums of squares conservatively and homogeneously preserve the weights instead of getting zero lambda for suspected predictors with low predictive power.
+
+&#35;60DaysofUdacity
