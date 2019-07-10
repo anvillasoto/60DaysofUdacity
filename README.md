@@ -1,4 +1,6 @@
-#Daily updates for 60DaysOfUdacity
+Daily Updates for 60DaysOfUdacity
+==========
+
 
 Day 1:
 ----------
