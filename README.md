@@ -156,8 +156,8 @@ PS. I hope that I put that explanation simply and a big shoutout to @Erjan for a
 
 Day 13:
 ----------
-Milestones:
-1. Finished lesson 1 of Introduction to Neural Networks.
+Milestone:
+Finished lesson 1 of Introduction to Neural Networks from Intro to Deep Learning Udacity Course.
 
 Learnings:
 1. In creating neural networks, we'll err on the side of the complicated model and then we'll apply certain techniques to prevent overfitting. This is different from what I conceived as the right way to build models by starting at the simple solution and going up from there.
