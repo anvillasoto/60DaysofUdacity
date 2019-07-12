@@ -173,3 +173,12 @@ Day 14:
 2. Watch the interview with Soumith Chintala, the creator of PyTorch about the inspirations behind doing the said framework and the importance of a vibrant and enthusiastic community in order to build one of the best deep learning frameworks to date.
 
 &#35;60DaysofUdacity
+
+
+Day 15:
+----------
+I recently acquired a machine with CUDA-enabled specifications and decided to migrate my AI workflow from online notebooks to my local machine. 
+1. I installed the necessary packages such as pytorch-1.1.0 and cudatoolkit-9.0. 
+2. Started convolutional neural networks from Intro to Deep Learning with PyTorch.
+
+&#35;60daysofudacity 
