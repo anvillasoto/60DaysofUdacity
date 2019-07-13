@@ -182,3 +182,13 @@ I recently acquired a machine with CUDA-enabled specifications and decided to mi
 2. Started convolutional neural networks from Intro to Deep Learning with PyTorch.
 
 &#35;60daysofudacity 
+
+
+Day 16:
+----------
+1. Successfully installed Jupyter Notebook in my local machine. Been testing it now by reviewing Introduction to Pytorch notebooks.
+2. Learned scale and rotation invariance as generalization technique for image augmentation in Convolutional Neural Networks. 
+3. Watched David Bau's explanation of how computers show evidence of learning the structure of the physical world. 
+> https://www.youtube.com/watch?v=jT5nYLND7co
+
+&#35;60daysofudacity 
