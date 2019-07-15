@@ -212,3 +212,12 @@ Finally, from the blogs that I read, this quote stuck on me that I felt the need
 A reflection that we are near to the point where things that we learn best as humans can be learned by computers, even intuition, strategy and logic.
 
 &#35;60DaysofUdacity
+
+
+Day 18:
+----------
+Milestones:
+1. Trained CFAR-10 dataset using CNN with three convolutional layers and three pooling layers that uses ReLU as activation function, CrossEntropyLoss and Stochastic Gradient Descent for 
+2. Started with style transfers by understanding content image and style image to create a new images of the same content but with features extracted from the style image using Convolutional Neural Networks.
+
+&#35;60DaysofUdacity
