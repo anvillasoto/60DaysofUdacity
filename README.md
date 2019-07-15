@@ -217,7 +217,7 @@ A reflection that we are near to the point where things that we learn best as hu
 Day 18:
 ----------
 Milestones:
-1. Trained CIFAR-10 dataset using CNN with three convolutional layers and three pooling layers that uses ReLU as activation function, CrossEntropyLoss and Stochastic Gradient Descent for 
-2. Started with style transfers by understanding content image and style image to create a new images of the same content but with features extracted from the style image using Convolutional Neural Networks.
+1. Trained CIFAR-10 dataset using CNN with three convolutional layers and three pooling layers that uses ReLU as activation function, CrossEntropyLoss for loss function and Stochastic Gradient Descent for optimization.
+2. Started with style transfers chapter by Intro to Pytorch Course of Udacity by understanding content image and style image to create a new images of the same content but with features extracted from the style image using Convolutional Neural Networks.
 
 &#35;60DaysofUdacity
