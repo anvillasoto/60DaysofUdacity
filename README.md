@@ -220,4 +220,13 @@ Milestones:
 1. Trained CIFAR-10 dataset using CNN with three convolutional layers and three pooling layers that uses ReLU as activation function, CrossEntropyLoss for loss function and Stochastic Gradient Descent for optimization.
 2. Started with style transfers chapter by Intro to Pytorch Course of Udacity by understanding content image and style image to create a new images of the same content but with features extracted from the style image using Convolutional Neural Networks.
 
+
+Day 19
+----------
+Milestones:
+1. I started watching the AMA with Robert Wagner a bit late (12:00 AM). So I think I can count it as a milestone for this day.
+2. Continued on Style Transfer lesson of Intro to Deep Learning with PyTorch by reading the paper by Gatys on Image Style Transfer Using Convolutional Neural Networks (link: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+3. Initially ran the exercise notebooks but failed on my first attempt due to missing dependency that needs to be downloaded. Will continue tomorrow.
+4. Learned about style and content loss implementations especially the gram matrix that is used to minimize the loss between style image vs target image.
+
 &#35;60DaysofUdacity
