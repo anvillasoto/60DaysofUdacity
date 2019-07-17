@@ -236,14 +236,17 @@ Day 20:
 ----------
 Milestones:
 1. Successfully setup the dependency VGGNet to run style transfer exercise on my machine.
-2. Ran two pairs of images for content and style as per the style transfer agenda:
-    1. I always want to look like Thanos so I hopped at the chance to use my graduation picture as content and Thanos's face as style to run the style transfer. Clearly, based on the first image, that did not work out well :D.
+
+2. I always want to look like Thanos so I hopped at the chance to use my graduation picture as content and Thanos's face as style to run the style transfer. Clearly, based on the first image, that did not work out well :D.
 
 ![AlexThanos](images/day20_1.png)
 
-    2. I saved a picture from the Internet of the Manila Skyline at night and Vincent Van Gogh's Starry Night painting. The result really is mesmerizing.
+3. I saved a picture from the Internet of the Manila Skyline at night and Vincent Van Gogh's Starry Night painting. The result really is mesmerizing.
 
 ![Manila Skyline; Starry Night](images/day20_2.png)
+
+![Model Result](images/day20_3.png)
+
 
 This is a really fun exercise and a great way to realize that Convolutional Neural Networks can do amazing things that are not limited to style transfers. Will definitely explore this field more.
 
