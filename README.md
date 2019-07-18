@@ -276,6 +276,7 @@ Participated in AWS Innovate Online Conference and followed the AI/ML track with
 
 
 Got the attendee badge for participating in 5 required talks in the said conference.
+
 ![Badge](images/day21/day21_6.png)
 
 &#35;60DaysofUdacity
