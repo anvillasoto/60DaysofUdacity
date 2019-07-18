@@ -239,15 +239,43 @@ Milestones:
 
 2. I always want to look like Thanos so I hopped at the chance to use my graduation picture as content and Thanos's face as style to run the style transfer. Clearly, based on the first image, that did not work out well :D.
 
-![AlexThanos](images/day20_1.png)
+![AlexThanos](images/day20/day20_1.png)
 
 3. I saved a picture from the Internet of the Manila Skyline at night and Vincent Van Gogh's Starry Night painting. The result really is mesmerizing.
 
-![Manila Skyline; Starry Night](images/day20_2.png)
+![Manila Skyline; Starry Night](images/day20/day20_2.png)
 
-![Model Result](images/day20_3.png)
+![Model Result](images/day20/day20_3.png)
 
 
 This is a really fun exercise and a great way to realize that Convolutional Neural Networks can do amazing things that are not limited to style transfers. Will definitely explore this field more.
+
+&#35;60DaysofUdacity
+
+
+Day 21:
+----------
+Milestones:
+
+Participated in AWS Innovate Online Conference and followed the AI/ML track with the following courses:
+
+1. Build business outcomes with AI and ML
+![Lesson 1](images/day21/day21_1.png)
+
+2. Open-source ML frameworks on Amazon SageMaker
+![Lesson 2](images/day21/day21_2.png)
+
+3. Accurately automating dataset labeling using Amazon SageMaker Ground Truth
+![Lesson 3](images/day21/day21_3.png)
+
+4. Reinforcement Learning with AWS DeepRacer and Amazon SageMaker RL
+![Lesson 4](images/day21/day21_4.png)
+
+5. Image and video analysis with Amazon Rekognition and Amazon Textract
+![Lesson 5](images/day21/day21_5.png)
+
+
+Got the attendee badge for participating in 5 required talks in the said conference.
+![Badge](images/day21/day21_6.png)
 
 &#35;60DaysofUdacity
