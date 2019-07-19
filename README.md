@@ -280,3 +280,21 @@ Got the attendee badge for participating in 5 required talks in the said confere
 ![Badge](images/day21/day21_6.png)
 
 &#35;60DaysofUdacity
+
+
+Day 22
+----------
+Milestones:
+1. Started recurring neural networks and LSTMs lesson from Intro to Deep Learning with PyTorch.
+![Day 22](images/day22.png)
+
+2. Partially perused several blogs about RNNs and LSTMs (will run through this tomorrow on a long travel). 
+
+Learnings:
+1. On the looks of it, Recurrent Neural Networks targets to sequentially learn features from a given dataset by using recursion, getting an input from the previously-trained layer.
+2. Unfortunately, RNNs would fail when input features are not related to each other. Since we assume linearity between these inputs, inherent combinations of features that make up an insight and are arbitrarily separated from noise will be forgotten. These are called short term memory.
+3. Also, RNNs suffer from vanishing gradients since updating weights using backpropagation is too cumbersome when we have multiple sequential layers.
+4. To remedy this, they introduced LSTMs where layers have now the capacity to store important characteristics in long-term memory cell, update recently varied features as well as features characteristics that are unimportant to short-term memory.
+5. Information stored to cells as well as the features will pass through different gates to keep important aspects, remove unimportant ones and spit out prediction as output to other LSTM layers.
+
+&#35;60DaysofUdacity
