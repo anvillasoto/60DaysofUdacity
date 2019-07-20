@@ -298,3 +298,17 @@ Learnings:
 5. Information stored to cells as well as the features will pass through different gates to keep important aspects, remove unimportant ones and spit out prediction as output to other LSTM layers.
 
 &#35;60DaysofUdacity
+
+
+Day 23:
+----------
+Milestones:
+Previously, I studied the general overview of LSTMs and RNN being an extension of it. Today, I continued learning RNNs primarily the gates that make up LSTM on its general working form.
+1. Learn Gate takes STM and an event in question by combining them through an activation function tanh and forgets part of it using an ignore factor with a sigmoid activation.
+2. Forget Gate basically strips out unimportant information from LTM by multiplying LTM by a forget factor. Forget factor is calculated by using STM and Event Information in a mini neural network with sigmoid as activation function.
+3. Remember Gate takes the newly-computed LTM coming out of the forget gate and an STM coming out of the learn gate, combining them together to output a new long term memory.
+4. Use gate takes the newly-computed LTM from forget gate and newly-computed STM from the learn gate to come up with a new short term memory as an output. Generally, we just multiply these two outputs.
+
+I understand that even on its general form, LSTMs are quite complicated and researchers on this area are making new schematics that best work on a particular applications. For now, my next steps would be to explore its applications using PyTorch.
+
+&#35;60DaysofUdacity
