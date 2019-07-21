@@ -323,15 +323,15 @@ Milestones:
 Observations:
 1. Training an LSTM model based on the default values presented in the solution IPython notebook in a machine with 7th Gen i7 processor and nVidia GeForce 940MX GPU takes a full 25 minutes.
 2. The system generated a significant heat when training a model, with CPUs almost maxing out compute resources.
-![Day 24 a](images/day24/day24_01.png)
+![Day 24 a](images/day24/day24_01.JPG)
 
 Realizations:
 1. I have been into text prediction before but it is just a simple n-gram model that just maps a maximum of 5-gram tokens to the words being predicted. If no entries are there, it will just fallback to 4-gram, to 3-gram, etc. to get the next best word (pretty lame example for a so-called text-prediction app). I did not know that LSTMs would be much of use for this scenario where we would want to predict next word using character-level RNNs.
 2. The results are pretty amazing given the fact that the model assembles real-English words. Although semantics are little off, I wonder how the model performs using real-world data, e.g. social media feeds, news coverage or blog posts.
 
-![Day 24 b](images/day24/day24_02.png)
+![Day 24 b](images/day24/day24_02.JPG)
 
-![Day 24 b](images/day24/day24_03.png)
+![Day 24 b](images/day24/day24_03.JPG)
 
 Learnings:
 1. On Day 13, I learned that we should err on the side of a complicated model, then we improve our model from there. I did not know what that means until now that I trained an actual RNN with somewhat arbitrary hyperparameters proving that deep learning is also an art as well.
