@@ -352,9 +352,9 @@ Day 25:
 Milestones:
 1. Reviewed sentiment analysis using a great resource from Julia Silge and David Robinson called Text Mining with R: A Tidy Approach. Evidently, this is not in Python but the simplicity of tidy approach in R has lead to the creation of a package that further simplifies text mining tasks such as sentiment analysis.
 2. English language has three general-purpose lexicons that are based on unigrams quantified with scores for positive/negative sentiment, and also possibly emotions like joy, anger, sadness, and so forth. These are:
-  a. AFINN from Finn Årup Nielsen
-  b. bing from Bing Liu and collaborators, and 
-  c. nrc from Saif Mohammad and Peter Turney
+  1. AFINN from Finn Årup Nielsen
+  2. bing from Bing Liu and collaborators, and 
+  3. nrc from Saif Mohammad and Peter Turney
 3. With these lexicons, the author has put Jane Austen's books into test by exploring each book's sentiment using the aforesaid lexicons. The progression of prositive/negative sentiments all throughout each book is beautifully plotted on the image below.
 
 ![Day 25](images/day25.png)
