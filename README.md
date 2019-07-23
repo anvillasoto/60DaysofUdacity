@@ -369,3 +369,36 @@ Motivation for learning sentiment analysis in R:
 I would like to encourage @Frida, @PaulBruce, @Stark and @Khush to keep up their good works.
 
 &#35;60DaysofUdacity
+
+
+Day 26:
+----------
+Milestones:
+1. Finished the first half of Sentiment Prediction RNNs lesson of Intro to Deep Learning with PyTorch course.
+2. Compare the R and PyTorch's way of doing sentiment analysis.
+3. Add 20 sets of clear and smog images of highways as part of SmogDetection project from #sg_planetearth group.
+
+Learnings and Observations:
+Yesterday, I tried to review the sentiment analysis using R and its awesome tidy data principle, hoping that the knowledge I regained there would be helpful in my goal to understand sentiment analysis using deep learning methods. By the looks of it, here are the comparisons:
+
+Using R:
+1. In R, sentiment analysis is done by mathematically aggregating the scores of each word or token that dictates its magnitude of emotion (whether the token is positive, negative or neutral). They use popular lexicons (see the previous day for more details) as guide for scoring, then maps each of the words in the corpus and starts aggregating.
+2. This technique is limited for a couple of reasons:
+    1. Sentiment lexicons are significantly old that it may not capture the new words with their corresponding sentiments that is being used today (e.g. lit, dope, etc.)
+    2. The emotion portrayed by each words in the lexicon can change based on its preceding tone or its preceding word (e.g. not happy, absolutely disgusted, gloriously wrong, etc.)
+3. Even then, you can get instant feedback as to what is the general tone of the corpus through simple mappings that does not need deep learning models.
+
+Using Python:
+1. In training sentiment analysis in PyTorch, we must have a dataset that has labels in it that flags each corpus to either be positive or negative.
+2. PyTorch will take advantage of LSTM architecture to learn from each input the words, essentially tokens that contribute to the output of the model (whether positive or negative).
+3. Model returns the probability of the input being negative or positive [0:1] based on the learned structure of the LSTM layers.
+4. Given all these, they have a couple of limitations:
+    1. The veracity of the model depends on the quality of data (GIGO in a nutshell).
+    2. A bit of overkill when you only need to get the tone of each input.
+    3. Suffers from the curse of dimensionality when we want to encompass language's nuances (the more the data, the more accurate the model is) on the assumption that the data quality is good in the first place.
+
+Given all these, it depends upon the scenario whether we prefer simple or complex models in doing sentiment analysis. The most important thing here is that we have options, and options are good! :)
+
+I would like to encourage @Frida, @PaulBruce, @Khush, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
+
+&#35;60DaysofUdacity
