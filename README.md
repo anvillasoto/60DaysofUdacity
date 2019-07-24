@@ -419,4 +419,6 @@ Lastly, for the third time in a row, I won again in the Boom with the Basics cha
 
 ![Day 27](images/day27.JPG)
 
-I would like to encourage @Frida, @PaulBruce, @Khush, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
+I would like to encourage @Frida, @PaulBruce, @Stark, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
+
+&#35;60DaysofUdacity
