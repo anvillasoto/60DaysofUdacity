@@ -417,6 +417,6 @@ Learnings:
 
 Lastly, for the third time in a row, I won again in the Boom with the Basics challenge. @Khush and @Jordi F selected my explanation of ensemble methods as the top answer:
 
-![Day 27](images/day27.png)
+![Day 27](images/day27.JPG)
 
 I would like to encourage @Frida, @PaulBruce, @Khush, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
