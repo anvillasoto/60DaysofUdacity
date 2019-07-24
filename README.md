@@ -402,3 +402,21 @@ Given all these, it depends upon the scenario whether we prefer simple or comple
 I would like to encourage @Frida, @PaulBruce, @Khush, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
 
 &#35;60DaysofUdacity
+
+
+Day 27:
+----------
+Milestones:
+1. Finished the Sentiment Prediction RNNs lesson from Intro to Deep Learning with PyTorch
+2. Learned about embedding layers as one of the powerful techniques in reducing dimensionality of datasets especially when dealing with text data.
+3. Read this good article from Medium about sentiment analysis in Python that uses VADER, a lexicon and rule-based sentiment analysis tool for social media posts (link: https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f). I did not account this in my comparisons yesterday but better late than never.
+
+Learnings:
+1. Embedding layers learn to look at the large vocabulary of unique tokens (in this case, words) and maps each word into a vector of specified embedding dimension. So instead of doing one-hot encoding which is a complete abomination especially when dealing with almost a hundred thousand input features, we take advantage of these layers to get specifically sized embeddings that we then use to map when we need the original data, sort of like a lookup table, or dictionary if you will. 
+2. Binary cross-entropy is just a simplified version of the categorical cross-entropy where the loss computed for every output vector component is not affected by other component values. That independence has lead us to limit the output to just one value, a measures of how far away from the true value (which is either 0 or 1) the prediction is for each of the classes.
+
+Lastly, for the third time in a row, I won again in the Boom with the Basics challenge. @Khush and @Jordi F selected my explanation of ensemble methods as the top answer:
+
+![Day 27](images/day27.png)
+
+I would like to encourage @Frida, @PaulBruce, @Khush, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
