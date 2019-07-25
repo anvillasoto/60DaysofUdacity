@@ -428,7 +428,7 @@ Day 28:
 ----------
 Milestones:
 1. I am so excited to tell that I finished the Intro to Deep Learning with PyTorch course.
-![Day 28 a](images/day28/day28_01.JPG)
+![Day 28 a](images/day28/day28_a.JPG)
 2. On this day, I learned how PyTorch models are being serialized and then loaded into C++ runtime using simple annotations and functional imports.
 3. Explored architectural decisions as to how PyTorch models will be utilized in prouction using the tools that I am most comfortable with.
 
@@ -444,7 +444,7 @@ Learnings and Future Plans:
 But before the project, I need to refresh my memory on Secure and Private AI course having Intro to Deep Learning with PyTorch as my guide.
 
 Bonus: I recently got my certificate in the recent AWS Innovate 2019 Online conference. 
-![Day 28 b](images/day28/day28_02.JPG)
+![Day 28 b](images/day28/day28_b.JPG)
 
 I would like to encourage @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
 
