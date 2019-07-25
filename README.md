@@ -415,10 +415,37 @@ Learnings:
 1. Embedding layers learn to look at the large vocabulary of unique tokens (in this case, words) and maps each word into a vector of specified embedding dimension. So instead of doing one-hot encoding which is a complete abomination especially when dealing with almost a hundred thousand input features, we take advantage of these layers to get specifically sized embeddings that we then use to map when we need the original data, sort of like a lookup table, or dictionary if you will. 
 2. Binary cross-entropy is just a simplified version of the categorical cross-entropy where the loss computed for every output vector component is not affected by other component values. That independence has lead us to limit the output to just one value, a measures of how far away from the true value (which is either 0 or 1) the prediction is for each of the classes.
 
-Lastly, for the third time in a row, I won again in the Boom with the Basics challenge. @Khush and @Jordi F selected my explanation of ensemble methods as the top answer:
+Lastly, for the third time in a row, I won again in the Boom with the Basics challenge. Moderators selected my explanation of ensemble methods as the top answer:
 
 ![Day 27](images/day27.JPG)
 
 I would like to encourage @Frida, @PaulBruce, @Stark, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
+
+&#35;60DaysofUdacity
+
+
+Day 28:
+----------
+Milestones:
+1. I am so excited to tell that I finished the Intro to Deep Learning with PyTorch course.
+![Day 28 a](images/day28/day28_01.JPG)
+2. On this day, I learned how PyTorch models are being serialized and then loaded into C++ runtime using simple annotations and functional imports.
+3. Explored architectural decisions as to how PyTorch models will be utilized in prouction using the tools that I am most comfortable with.
+
+Learnings and Future Plans:
+1. C++ is the production runtime environment that is selected by PyTorch since it is the fastest and most widely utilized platform. 
+2. Also, as most other languages are just abstraction of C++, it is wise to couple PyTorch with the said language, minimizing the need to utilize multiple interfaces which will significantly affect production performance. Don't take it from me, take it from Christian S. Perone's blog post here:
+
+> http://blog.christianperone.com/2018/10/pytorch-1-0-tracing-jit-and-libtorch-c-api-to-integrate-pytorch-into-nodejs/
+
+3. Having said that, limitations of C++ arise. With so much solutions that give flexibility in implementing web API interfaces in the open-source market, C++ could not just be the best solution. That is why in my future projects, I will be working on Node.JS, one of the best asynchronous web frameworks out there that make it easy for developers to expose API endpoints for production.
+4. Although Node.JS has quirks that I am not really fond of, we primarily use that in our organization to create web systems so learning curve would not be an issue.
+
+But before the project, I need to refresh my memory on Secure and Private AI course having Intro to Deep Learning with PyTorch as my guide.
+
+Bonus: I recently got my certificate in the recent AWS Innovate 2019 Online conference. 
+![Day 28 b](images/day28/day28_02.JPG)
+
+I would like to encourage @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
 
 &#35;60DaysofUdacity
