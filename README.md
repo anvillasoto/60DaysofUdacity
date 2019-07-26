@@ -449,3 +449,24 @@ Bonus: I recently got my certificate in the recent AWS Innovate 2019 Online conf
 I would like to encourage @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
 
 &#35;60DaysofUdacity
+
+
+Day 29:
+----------
+Milestones: 
+1. Since I am done with the Introduction to Deep Learning with PyTorch, I am now starting chapter 2 of the Secure and Private AI challenge.
+2. Read Chapters 1 and 2 of 'The Algorithmic Foundations of Differential Privacy' by Cynthia Dwork. It turns out that the main goal of differential privacy as explained by Andrew Trask can comprehensively be understood by reading them.
+3. Modified my SmogClassification dataset by removing images that does not have highway objects in them.
+
+Learnings:
+1. It is mostly difficult for AI researchers to utilize datasets with public or private information in them especially when they came from sources that are not readily available due to their confidentiality or companies have market edge in witholding them. Thus the tasks of making these datasets available for researchers are often difficult.
+2. Reviewing the definitions presented by Andrew Trask about preserving privacy, researchers need two things - (1) secure the protection of individual information involved in the dataset and (2) let them report their results without compromising private information.
+3. The second aforemention requirement can be hard to implement especially when results can be accidentally or intentionally attributed to initial dataset. Thus common anonymization techniques does not work.
+4. Ultimately, by Dwork's careful delineation of privacy requirements, we now have a framework that suggests a promise that individuals are protected while researchers are free to communicate their results.
+5. The goal of this promise is that if we have some private or sensitive parameters, we are concerned on tools and techniques that can be applied in order to get the best of both worlds, information security and freedom to initiate and communicate findings of statistical analyses.
+
+It is a long day, but worth it nonetheless.
+
+I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima and @Carlo David. Keep up your good works!
+
+&#35;60DaysofUdacity
