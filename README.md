@@ -470,3 +470,31 @@ It is a long day, but worth it nonetheless.
 I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima and @Carlo David. Keep up your good works!
 
 &#35;60DaysofUdacity
+
+
+Day 30:
+----------
+Milestones:
+1. Finished Lesson 3: Introducing Differential Privacy of the challenge course.
+2. Finished the video by Bolun Wang of UC Santa Barbara titled 'With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning'.
+> https://www.usenix.org/conference/usenixsecurity18/presentation/wang-bolun
+
+Learnings:
+1. Although transfer learning significantly cut the cost of rerunning models to enormouse amounts of datasets, AI researchers have very limited choices of these models also because of the said problem (only companies like Google that invest in models that can be democratized for our use). 
+2. With this dilemma, a lot of models will be based on these limited amounts of parent/teacher models, so this limitation is taken advantage by attackers.
+3. Several attacks include:
+    1. Adversarial attacks - intentional misclassification of inputs by adding carefully engineered perturbation on data.
+    2. White box attack - assumes full access to parent model internals which enable attackers to find optimal perturbation offline.
+    3. Black box attack - a brute force method that repeatedly query the model to extract meaningful model insights that can be used to rig datasets that will then perturb model's normal output.
+4. With Wang's team efforts, they devised a unique attack that goes in the middle of teacher model and student models.
+    1. The end goal is to mimick hidden layer representations of model by slightly deviating from the ground truth so humans can't identify they are being attacked
+    2. This is done by adding fingerprinting (perturbation to input features) attacks to parent models. These are essentially extra features acquired from publicly available models overlaid to datasets.
+5. Scarily enough, these form of attacks expose vulnerability to datasets that we use in the course challenge (ie ImageNet).
+
+This I think is a complement of differential privacy. That we must not prioritize exposing public information but also make sure that our models are resistant to these attacks. Fortunately, in spirit of fair research, the results were communicated to companies like Google, Microsoft and Facebook and they are now streamlining changes to make teacher models robust.
+
+This marks the first half of #60DaysofUdacity and it is really awesome so far!
+
+I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima, @Carlo David, @THIYAGARAJAN R and @Akshay Pal. Keep up your good works!
+
+&#35;60DaysofUdacity
