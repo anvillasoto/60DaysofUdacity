@@ -498,3 +498,22 @@ This marks the first half of #60DaysofUdacity and it is really awesome so far!
 I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima, @Carlo David, @THIYAGARAJAN R and @Akshay Pal. Keep up your good works!
 
 &#35;60DaysofUdacity
+
+
+Day 31:
+----------
+Milestones:
+1. Finished Lesson 3: Evaluating the Privacy of a Function (short but tricky one)
+2. Tried to install syft on my local machine to no avail because of Microsoft C++ Build Tools dependency that is somehow cost 1 gigabyte download. Will try to fix this later.
+
+Learnings:
+1. Ultimately, we are interested in the sensitivity accounting for all the attributes associated to each individual rather than considering each of the attribute's sensitivity individually. In other words, we are concerned about people's privacy by looking at each row representing a person rather than looking at each of the variables.
+2. I tried to understand thr threshold metric in this chapter only to understand that it is just to build our intuition about variable databases with varying sensitivities. My takeaway is this:
+    1. Threshold is just an intuitive way of telling us that the empirical or constant sensitivity of a function that is applied to a database is not an accurate estimate. Because as Andrew Trask simulated, there exist some databases that may or may not be sensitive to change. By  comparing the number of sensitive PDBs to the threshold, we can see that some are sensitive and some are not thus proving thta the sensitivity metric is database specific.
+    2. There is a threshold check in differential attacks because first, it works. You can find the difference of a query applied to a database with one removed vs the original query by any function really, could be sum, could be mean or for the sake of example, could be threshold.
+
+Let me guys know what you think.
+
+I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima and @Carlo David. Keep up your good works!
+
+&#35;60DaysofUdacity
