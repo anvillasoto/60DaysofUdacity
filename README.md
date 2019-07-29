@@ -517,3 +517,30 @@ Let me guys know what you think.
 I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima and @Carlo David. Keep up your good works!
 
 &#35;60DaysofUdacity
+
+
+Day 32:
+----------
+Milestones:
+1. I came across this whitepaper from Microsoft entitled Differential Privacy for everyone. This is one of the best papers that delve into the introduction to differential privacy. You can download the whitepaper in the following link:
+>http://download.microsoft.com/download/D/1/F/D1F0DFF5-8BA9-4BDF-8924-7816932F6825/Differential_Privacy_for_Everyone.pdf
+
+Learnings:
+1. The use of the word anonymous in the context of protecting people's information simply by slightly modifying values in the database is incorrect. The term should be used in this case is de-identification which means that the data curator only removes information which could easily be mapped to the real identity of individuals that the data refers to.
+2. Many organizations devise de-identification techniques but oftentimes, too much modification of the data will be difficult for researchers to find meaningful insights from the available data just because we de-identified the database too much.
+3. Under the Differential Privacy model, researchers must not have access to data directly. They must communicate with a middleware or some sort of API that spits out query results with minimum amount of distortion without any opportunity for unwanted re-identification.
+4. Distortions are intentional inaccuracies applied to the database that can be calibrated by getting the sweet spot of it being small enough that it will not distort the ground truth or insight retrieved from query but large enough that malicious queries will not have a chance of leaking potentially private information through unwanted re-identification.
+
+With Microsoft's proven domain in database and big data solutions, from their products like MS SQL and Azure, it is imperative that they must adopt this strategy head on. Fortunately, they have Cynthia Dwork which surprisingly is a Microsoft distinguished scientist and one of the collaborators of the PINQ project, a Microsoft-created differential privacy middleware based on LINQ. Really amazing stuff guys. Check it out.
+
+PS. For the fourth time, I won again in Boom with the Basics. 
+
+> https://secureprivataischolar.slack.com/archives/CK78R6TBJ/p1564410223275900
+
+I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima, @Carlo David, and @Labiba. Keep up your good works!
+
+References:
+1. [Database Privacy: Microsoft Research](http://research.microsoft.com/en-us/projects/databaseprivacy/)
+2. [Privacy Integrated Queries (PINQ):](http://research.microsoft.com/en-us/projects/PINQ/)
+
+&#35;60DaysofUdacity

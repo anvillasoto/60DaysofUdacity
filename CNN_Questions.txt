@@ -1,0 +1,25 @@
+timestamp 17
+
+Q3: What happens when you train a Convolutional Neural Network without normalization as a preprocessing step?
+
+Q4: In no more than two sentences, how do you differentiate MLPs vs CNNs? 
+
+Q5: What defines an edge or edges in a convolutional neural networks? 
+
+Q6: When can you use a convolutional kernel with values that DOES NOT add to zero? Give one use case.
+
+Q7: How can you use Convolutional Neural Networks to detect primary/major colors in the image? (trick question)
+
+Q8: Given a CNN that outputs values that will be subsequently flattened to a fully connected layer for classification, is it possible to reconstruct the original image? (A privacy-related question)
+
+Minute 40 of CS231n Winter 2016
+
+Ans: Yes, but as it is passed through the several convolution and pooling layers, only the inherent structures are preserved. Reconstruction goes like this, given a particular feature, find an image that bests matches that feature, match that code and subject to regularizer on the image.
+Instead of maximizing on every arbitrary feature we just want to have a specific feature that we match into every single dimension.
+
+You can start from middle features or final pooling layers and see whether you get reconstructions that are similar to the original image and regularize to get just 1.
+
+Guys please watch this especially from minute 41. It is amazing and quite scary at the same time!
+
+Q9: Explain the vulnerabilities of using Convolutional Neural Networks.
+primary cause of neural networks' vulnerability to adversarial perturbation is their linear nature and very high dimensional, sparsely-populated input spaces.
