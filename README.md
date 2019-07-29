@@ -535,8 +535,8 @@ With Microsoft's proven domain in database and big data solutions, from their pr
 
 PS. For the fourth time, I won again in Boom with the Basics. 
 
-![Day 32 a](images/day32/day32_a.JPG)
-![Day 32 b](images/day32/day32_b.JPG)
+![Day 32 a](images/day32/day32_01.JPG)
+![Day 32 b](images/day32/day32_02.JPG)
 
 I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima, @Carlo David, and @Labiba. Keep up your good works!
 
