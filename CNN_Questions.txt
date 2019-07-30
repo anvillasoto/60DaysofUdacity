@@ -23,3 +23,16 @@ Guys please watch this especially from minute 41. It is amazing and quite scary 
 
 Q9: Explain the vulnerabilities of using Convolutional Neural Networks.
 primary cause of neural networks' vulnerability to adversarial perturbation is their linear nature and very high dimensional, sparsely-populated input spaces.
+
+
+
+SG Planet Earth
+image sites to look for to add more images:
+
+Shutterstock:
+https://www.shutterstock.com/search/highway+smoke?page=14
+https://www.shutterstock.com/search/highway+cars+clear+sky?page=3
+
+Getty:
+https://www.gettyimages.com/photos/highway-cars-sky-clear?license=rf&family=creative&page=2&phrase=highway%20cars%20sky%20clear&sort=best#license
+https://www.gettyimages.com/photos/fog-roads-cars?license=rf&family=creative&phrase=fog%20roads%20cars&sort=best#license

@@ -545,3 +545,28 @@ References:
 2. [Privacy Integrated Queries (PINQ):](http://research.microsoft.com/en-us/projects/PINQ/)
 
 &#35;60DaysofUdacity
+
+
+Day 33:
+----------
+Milestones:
+1. Last night, about 12:15 A.M. in the Philippines, I resisted the urge to sleep to join my talented peers at #sg_dl-goodfellows in a really fruitful discussion of the first three chapters of Ian Goodfellow's Deep Learning book. We talked about many things, succinctly summarized by @Shivam Raishama here:
+![Day 33_01](images/day33/day33_01.JPG)
+
+And our post-meeting selfies:
+![Day 33_02](images/day33/day33_02.JPG)
+
+![Day 33_03](images/day33/day33_03.JPG)
+
+![Day 33_04](images/day33/day33_04.JPG)
+
+2. Added 30 pairs of images in my SmogDetection dataset.
+
+Self Reflection:
+I used Slack in my work. For publishing announcements and communicating with the rest of the team. Nothing more than a communication tool. I could not imagine that Slack could be more than that. A virtual space conducive to learning with inspiring people keeping you motivated every time. 
+
+Speaking of motivation, I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima, @Carlo David, and @Labiba. Keep up your good works!
+
+And to my newfound friends: @Jess @shahnoza @AbdElrhman @Munira Omar @David Ashraf @Sarah Majors @Hitoishi Das @Sourav @Nouran El Kassas  @Shivam Raisharma @Md. Mahedi Hasan Riday, I would also like to encourage you to keep up your good works! Cannot wait to meet you again.
+
+&#35;60DaysofUdacity
