@@ -554,11 +554,11 @@ Milestones:
 ![Day 33_01](images/day33/day33_01.JPG)
 
 And our post-meeting selfies:
-![Day 33_02](images/day33/day33_02.JPG)
+![Day 33_02](images/day33/day33_02.png)
 
-![Day 33_03](images/day33/day33_03.JPG)
+![Day 33_03](images/day33/day33_03.png)
 
-![Day 33_04](images/day33/day33_04.JPG)
+![Day 33_04](images/day33/day33_04.png)
 
 2. Added 30 pairs of images in my SmogDetection dataset.
 
