@@ -582,9 +582,9 @@ Learnings:
 Randomized Response to protect individuals and the sampling itself to the burden of plausible deniability. Randomized response is not really tightly coupled with differential privacy per se. But with Cynthia Dwork's outstanding intuition, she masterfully used the technique of randomized response as key to understand local differential privacy via proof of example. The intuition that I got here are:
 1. RR protects people by giving them a choice to tweak their responses a little bit which is similar to adding noise in LDP.
 2. With Randomized Response's sampling mechanism in mind, we can prove through simulation that:
-    a. We can achieve differentially private queries by outputing generalizable results and not specifically sensitive ones.
-    b. Even with a data that is not evenly distributed or skewed at some point, we can still do differentially private queries and obtain or extract the statistic that we need.
-    c. The more the data, the more differentially private the database is. This means that the queries are returning the general insights in data rather than information local to a particular user. Thus in essence, people's privacy is preserved.
+    1. We can achieve differentially private queries by outputing generalizable results and not specifically sensitive ones.
+    2. Even with a data that is not evenly distributed or skewed at some point, we can still do differentially private queries and obtain or extract the statistic that we need.
+    3. The more the data, the more differentially private the database is. This means that the queries are returning the general insights in data rather than information local to a particular user. Thus in essence, people's privacy is preserved.
 
 What about the challenges?
 1. In the examples presented both in Trask's videos and Dwork's books, normality is assumed and it is imperative that we must know the ground truth in order to get back the original statistic that we want to know. So parameter estimates must be considered.
