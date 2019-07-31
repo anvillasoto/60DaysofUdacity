@@ -570,3 +570,35 @@ Speaking of motivation, I would like to extend my encouragements to these amazin
 And to my newfound friends: @Jess @shahnoza @AbdElrhman @Munira Omar @David Ashraf @Sarah Majors @Hitoishi Das @Sourav @Nouran El Kassas  @Shivam Raisharma @Md. Mahedi Hasan Riday, I would also like to encourage you to keep up your good works! Cannot wait to meet you again.
 
 &#35;60DaysofUdacity
+
+
+Day 34:
+----------
+Milestones:
+1. Completed Local Differential Privacy part of the course.
+2. Reread the second chapter of Algorithmic Foundations of Differential Privacy
+
+Learnings:
+Randomized Response to protect individuals and the sampling itself to the burden of plausible deniability. Randomized response is not really tightly coupled with differential privacy per se. But with Cynthia Dwork's outstanding intuition, she masterfully used the technique of randomized response as key to understand local differential privacy via proof of example. The intuition that I got here are:
+1. RR protects people by giving them a choice to tweak their responses a little bit which is similar to adding noise in LDP.
+2. With Randomized Response's sampling mechanism in mind, we can prove through simulation that:
+    a. We can achieve differentially private queries by outputing generalizable results and not specifically sensitive ones.
+    b. Even with a data that is not evenly distributed or skewed at some point, we can still do differentially private queries and obtain or extract the statistic that we need.
+    c. The more the data, the more differentially private the database is. This means that the queries are returning the general insights in data rather than information local to a particular user. Thus in essence, people's privacy is preserved.
+
+What about the challenges?
+1. In the examples presented both in Trask's videos and Dwork's books, normality is assumed and it is imperative that we must know the ground truth in order to get back the original statistic that we want to know. So parameter estimates must be considered.
+2. This leads to a couple of problems ever present in the frequentist's view of statistical analyses - Too Many Assumptions.
+3. As an added challenge, we have noise. Quantifying and transforming it to the original distribution can be difficult.
+
+As if Cynthia Dwork does not anticipate these sets of problems, she published this paper Differential Privacy and Robust Statistics that addesses these problems in a differential privacy setting.
+> www.stat.cmu.edu/~jinglei/dl09.pdf
+
+This is a little Mathy so I stopped reading it (sorry :D). But I perused this manuscript which is more layman friendly and tackles solution to the set of problems I encountered. This is titled Statistical Approximating Distributions under Differential Privacy
+>https://journalprivacyconfidentiality.org/index.php/jpc/article/download/666/660/
+
+God I hope I could meet her someday!
+
+Speaking of motivation, I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday. Keep up your good works!
+
+&#35;60DaysofUdacity
