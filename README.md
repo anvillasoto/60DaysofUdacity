@@ -599,6 +599,40 @@ This is a little Mathy so I stopped reading it (sorry :D). But I perused this ma
 
 God I hope I could meet her someday!
 
-Speaking of motivation, I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday. Keep up your good works!
+I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday. Keep up your good works!
+
+&#35;60DaysofUdacity
+
+
+Day 35:
+----------
+Milestones:
+Milestones:
+1. Finished Lesson 5: Introducing Local and Global Differential Privacy.
+2. Watched Cynthia Dwork's talk from the Differential Privacy Symposium: Four Facets of Differential Privacy
+> https://www.youtube.com/watch?v=lg-VhHlztqo
+3. Watched the Formal Definition of Differential Privacy by Lê Nguyên Hoang
+> https://www.youtube.com/watch?v=cNoiuVne3j4
+
+Learnings:
+1. Local differential privacy achieves individual privacy for every participants in the study at the expense of accuracy. Also, LDP needs more data or more participants to achieve accuracy. That is why in cases that these are not met, our resort is Global Differential Privacy.
+2. Simply speaking, this protects the output of the query itself by adding in it an estimated noise. Enter the formal definition of DP which goes like this (please look at the disclaimer below :D):
+
+> Algorithm that analyzes datasets, let's call it M gives epsilon-differential privacy if for all pairs of datasets x and y differing in the data of one person, and every possible output S, the probability of observing S when we run the algorithm M given that we have the complete database is almost the same as it is at most e to the epsilon times the probability of observing S from the algorithm given a dataset with one item removed.
+
+3. So the ratio of the two given probabilities is at most e to the epsilon. Thus here, epsilon is our measure of privacy loss.
+4. x, y pairs here are adjacent datasets or parallel databases with one being complete and one with one item removed (as if this is not clear enough).
+
+Advantages of Differential Privacy:
+1. Assuming that implementations agree on the same formal definition, DP is future proof in a sense that the statistic that you obtained does not change even when the person gets new insight from another dataset.
+2. Since differential privacy protects an individual in the study, then by formal definition, the same is true for other individuals within the study.
+3. Algorithms that analyzes datasets when differential privacy is applied can be accumulated (the notion of privacy budget will be explored later).
+4. Differential privacy is programmable as we have seen in the Trask's simulation challenges.
+
+As Cynthia Dwork puts it, we have truth and a blurred version of truth and the blurred version of truth tells you the whole story in that it tells the generalizable feature of the truth. Of course we are talking about differential privacy here. This claim would be controversial if used in a different context. :D
+
+Disclaimer: Instant feedback for those who think this is not accurate enough and we'll favor accuracy by limiting noise accordingly.
+
+I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan. Keep up your good works!
 
 &#35;60DaysofUdacity
