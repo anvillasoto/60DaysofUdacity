@@ -607,7 +607,6 @@ I would like to extend my encouragements to these amazing people: @Stark, @Frida
 Day 35:
 ----------
 Milestones:
-Milestones:
 1. Finished Lesson 5: Introducing Local and Global Differential Privacy.
 2. Watched Cynthia Dwork's talk from the Differential Privacy Symposium: Four Facets of Differential Privacy
 > https://www.youtube.com/watch?v=lg-VhHlztqo
@@ -631,7 +630,7 @@ Advantages of Differential Privacy:
 
 As Cynthia Dwork puts it, we have truth and a blurred version of truth and the blurred version of truth tells you the whole story in that it tells the generalizable feature of the truth. Of course we are talking about differential privacy here. This claim would be controversial if used in a different context. :D
 
-Disclaimer: Instant feedback for those who think this is not accurate enough and we'll favor accuracy by limiting noise accordingly.
+Disclaimer: Instant feedback for those who think this is not accurate enough and we'll favor accuracy by limiting noise accordingly. :D
 
 I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan. Keep up your good works!
 
