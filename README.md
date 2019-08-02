@@ -635,3 +635,29 @@ Disclaimer: Instant feedback for those who think this is not accurate enough and
 I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan. Keep up your good works!
 
 &#35;60DaysofUdacity
+
+
+Day 36:
+----------
+Milestones:
+1. Finished the Differential Privacy for Deep Learning.
+2. Prepared my system for the final project, details will unfold soon :D
+
+Learnings:
+Two pivotal challenges when considering differential privacy in deep learning:
+1. How do we compute sensitivity when models are not the same as canonical databases, meaning that parameters like augmented databases, simple queries, and sensitivity metric will not be appropriate in this case?
+2. Even if we know the answer to question one, does the algorithm have a definite/predictable outcome?
+
+Solutions:
+1. Here are the steps to translate fundamental definition of DF in the context of the basic classification algorithm:
+    1. You consider output of multiple training models kind of like database rows. 
+    2. Augmented database in this context will be all training model labels as x and all training models but with one removed as y.
+    3. The differentially private query that we will do in this case is a max function.
+    4. Add a Laplacian noise to the output of the query that adheres to the privacy constraints (epsilon, delta). 
+    5. Since we have the augmented labels already, we can do PATE analysis to compute privacy leakage (more on this tomorrow).
+2. The output of this differentially private query will be the ground truth and basis/labels for the local classification model. This assumes that the scenario is the classification algorithm has no labels and must depend on databases that would leaks private information.
+3. Interesting Note: Outputs of epsilon-differentially private queries will be immune to post-processing. Meaning that no amount of further processing to be done in the differentially private outputs that will uncover specific information from the dataset.
+
+I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan. Keep up your good works!
+
+&#35;60DaysofUdacity
