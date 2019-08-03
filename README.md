@@ -661,3 +661,37 @@ Solutions:
 I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan. Keep up your good works!
 
 &#35;60DaysofUdacity
+
+
+Day 37:
+----------
+1. Added another 30 sets of images for the SmogClassification dataset as requirement for #sg_planetearth study group.
+2. Attended a meetup set by @Shudipto Trafder to clarify requirements for gathering images for the SmogClassification project.
+3. Watched the last 2 videos fro lesson 6 of the course challenge, Differential Privacy at Apple and Privacy and Society from OpenAI.
+
+Reflections:
+I had an amazing discussion with @MarianoOG about his question - 'Do we really care about privacy?' while also pondering several questions raised from the videos I watched. 
+1. What are realistic standards for private machine-learning or privacy protecting approaches to data analysis in general.
+2. When are we willing to pay the extra costs in terms of convenience or computing overhead in order to have greater privacy protection?
+3. Who is best fit to help people manage their data? Companies? Governments? Non-profits? How can we best hold them accountable.
+
+To which my answer would be:
+
+All the more reason why we should act now. The primary factor is the ignorance of the people when relenting information and the legislators, apparently having no idea what all of this is about, where they should act upon the issues of leaked privacy in utmost responsibility. Have you watched Mark Zuckerberg's interview with congress? Even the most simple ad revenue as Facebook's business model they cant grasp.
+Given those problems, Dwork proposed a solution and its primary goal goes something like this - Ok, since terms of privacy are pretty lax, people just agree on things just for convenience, government not being technical about their decisions, maybe we can do something, a strategy, like a promise to protect people without them knowing the details to limit data companies like the recent fiasco of Cambridge Analytica to know data points unique to each person and exploit them for their purpose. And that strategy is differential privacy.
+EU's GDPR adopted this strategy and imposed rules and sanctions to companies. And the good thing about this is it's working. Companies like Apple, Microsoft and Google are on the moves to comply. Even Facebook, who sponsored this challenge to train future developers and AI practitioners in observing differential privacy. How about the recent news where US government fines Facebook 5 billion for data breach? This news is something. Companies now are taking measures to be compliant because fines like that hurt their businesses significantly.
+I know it is frustrating and kind of like an overdue cure to an old problem. But we need to act now, for the protection of people. The promise of differential privacy couldn't be more true and relevant in this case.
+To answer the question, people may not care but tech companies do, because they are obligated to do so.
+
+It is nice when things worked out. 
+
+And hey, here are the pictures of our meetup. 
+
+![Day 37 01](./images/day37/day37_01.png)
+![Day 37 02](./images/day37/day37_02.png)
+![Day 37 03](./images/day37/day37_03.png)
+![Day 37 04](./images/day37/day37_04.png)
+
+I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan, @LauraT. Keep up your good works!
+
+&#35;60DaysofUdacity
