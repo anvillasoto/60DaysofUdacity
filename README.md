@@ -695,3 +695,25 @@ And hey, here are the pictures of our meetup.
 I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan, @LauraT. Keep up your good works!
 
 &#35;60DaysofUdacity
+
+
+Day 38:
+----------
+Milestone:
+1. Finished the PATE analysis project. This took a lot of my time since I am only running my models on my local machine. Unfortunately, CUDA experience errors in my machine.
+
+![Day 38](./images/day38/day38_01.JPG)
+
+Learnings:
+1. As I have said yesterday, differential privacy has a different way of computing sensitivity in that when it is being applied or translated to deep learning models may leak information in spite of them being aggregated ones. 
+2. The idea behind PATE is applying an aggregation on output of models that are sensitive in nature (i.e. models that uses private data), called "teachers". 
+3. With this, we are interested in their outputs or labels that must be aggregated using a function.
+4. Since that function returns a majority label, we need to add noise (mostly Laplacian) to prevent the aforesaid leakage of aggregated information across private models.
+5. The aggregated result will be used for training another model and use the labels from the teacher models in the so-called student models.
+6. PATE analysis has this nifty trick of computing the level of agreement between different teacher models.
+
+This is really a stretch and an added friction for training models as simple as MNIST but that is what you pay for achieving privacy. I learned a lot about this project.
+
+ would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan, @LauraT, @Akshay Rajmohan, @Agata [OR, USA], @Shudipto Trafder, @Akash Antony, @Sayed Maheen Basheer,  @Pooja Vinod @Viper @Berenice @sourav kumar, @Hung, Ingus Terbets, @Shaam, @Archit. Keep up your good works!
+
+&#35;60DaysofUdacity
