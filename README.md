@@ -714,6 +714,31 @@ Learnings:
 
 This is really a stretch and an added friction for training models as simple as MNIST but that is what you pay for achieving privacy. I learned a lot about this project.
 
- would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan, @LauraT, @Akshay Rajmohan, @Agata [OR, USA], @Shudipto Trafder, @Akash Antony, @Sayed Maheen Basheer,  @Pooja Vinod @Viper @Berenice @sourav kumar, @Hung, Ingus Terbets, @Shaam, @Archit. Keep up your good works!
+I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan, @LauraT, @Akshay Rajmohan, @Agata [OR, USA], @Shudipto Trafder, @Akash Antony, @Sayed Maheen Basheer,  @Pooja Vinod @Viper @Berenice @sourav kumar, @Hung, Ingus Terbets, @Shaam, @Archit. Keep up your good works!
+
+&#35;60DaysofUdacity
+
+
+Day 39:
+------
+Milestones:
+1. Attended meetup hosted by @Ateniola Oluwatobi Victor. We discussed global differential privacy particularly on how to approach PATE analysis final project.
+    a. This meeting has cleared my confusion about properly splitting MNIST's test dataset. Apparently, 90/10 split is just arbitrary. 
+    b. Met with these amazing people @akshu18 @Archit @Raunak Sarada @Ayush Yadav @Jess @Gogulaanand R, @erinSnPAI @Seeratpal K. Jaura @Sourav @Nishant Bharat @Ivy @Jaiki Yadav@Suparna S Nair @Jeremiah Kamama @Ebinbin Ajagun @Tracy Adams @nabhanpv
+
+![Day 39 01](./images/day39/day39_01.png)
+
+2. Attended meetup hosted by @Stark from #sg_novice-ai.
+    a. Brainstorm on projects that is geared towards healthcare.
+    b. Recommended strategies on how to plan ahead based on time constraints. It is short but a really fruitful meeting. Plus I finally met people that I really look up to in the challenge - @Seeratpal K. Jaura @Stark @Hung @Archit @Oudarjya Sen Sarma @ayivima @Ingus Terbets @cibaca @Apoorva Patil @Agata [OR, USA] @Shudipto Trafder
+
+![Day 39 05](./images/day39/day39_05.png)
+
+PS. For the 6th time, I won again in the Boom with the Basics Challenge care of @Khush and @Jordi F. The question is - What is One Hot Encoding?
+
+![Day 39 08](./images/day39/day39_08.JPG)
+![Day 39 09](./images/day39/day39_09.JPG)
+
+I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan, @LauraT, @Akshay Rajmohan, @Agata [OR, USA], @Shudipto Trafder, @Akash Antony, @Sayed Maheen Basheer,  @Pooja Vinod @Viper @Berenice @sourav kumar, @Hung, Ingus Terbets, @Shaam, @Archit. Keep up your good works!
 
 &#35;60DaysofUdacity
