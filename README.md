@@ -742,3 +742,27 @@ PS. For the 6th time, I won again in the Boom with the Basics Challenge care of 
 I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan, @LauraT, @Akshay Rajmohan, @Agata [OR, USA], @Shudipto Trafder, @Akash Antony, @Sayed Maheen Basheer,  @Pooja Vinod @Viper @Berenice @sourav kumar, @Hung, Ingus Terbets, @Shaam, @Archit. Keep up your good works!
 
 &#35;60DaysofUdacity
+
+
+Day 40:
+------
+Milestones:
+1. I finished Lesson 7: Federated Learning lesson of the challenge and will target to do the final project tomorrow. 
+2. Read the paper about the Development and Validation of Deep Learning Algorithms for Detection of Critical Findings in Head CT scan as a candidate dataset to be used in the final project for #sg_novice-ai. You can access the paper here:
+> https://arxiv.org/abs/1803.05854
+
+Learnings:
+With so much intuition that I generated towards learning the previous lessons from sensitivity and formal definitions of differential privacy to differential privacy in the context of deep learning, a great addition would be federated learning.
+I happened to work with next word prediction using bag-of-words, specifically the n-gram model. I did not know that GBoard uses federated learning to improve next-word predictions to an almost haunting degree :D. With so much going on in our edge devices, the use of federated learning to improve mobile user experience cannot be overstated.
+But it is important to establish what federated learning is first:
+1. It is a specific environment for machine learning where the actual training of model is somehow democratized to multiple machines (edge devices) instead of the usual centralized modeling on a single one. 
+2. This limits access to local data across multiple users that would normally be submitted to the central server for modeling. 
+3. In this case, sensitive information from users stay within the users' devices.
+4. These machines will then train their mini models and outputs aggregated version of the data called focused update. 
+5. With the power of differential privacy, these updates are then augmented with noise so even these aggregates will not leak private information (more on this on the next lesson).
+
+With PySyft, orchestrating modeling across multiple remote devices are really easy since it is tightly-coupled with PyTorch. I am really excited to try it myself tomorrow. 
+
+It is really fun to give motivations to and be encouraged by the amazing people in this community. With that, I extend my encouragements to you all.
+
+&#35;60DaysofUdacity
