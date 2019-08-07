@@ -1,0 +1,18 @@
+Federated Learning:
+> a specific environment for machine learning where the actual training of model is somehow democratized to multiple machines (edge devices) instead of the usual centralized modeling on a single one. 
+> This limits access to local data across multiple users that would normally be submitted to the central server for modeling. 
+> In this case, sensitive information from users stay within the users' devices.
+These machines will then train their mini models and outputs aggregated version of the data called focused update. 
+> With the power of differential privacy, these updates are then augmented with noise so even these aggregates will not leak private information (more on this later).
+
+Federated learning is a tool to break what sometimes comes up as a false dichotomy that if you want to have really sophisticated machine learning, you have to give up privacy. 
+
+> Federated learning
+> Use cases of Federated Learning - improving services of edge devices
+> Non-functional use cases of FL - 
+> How it is being used at Google - GBoard
+> Does FL impact model accuracy - not so much, it just runs slower.
+> Secure Aggregation (a topic for next section)
+
+Brendan McMahan
+Lead author of federated learning

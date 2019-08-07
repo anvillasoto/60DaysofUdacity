@@ -766,3 +766,18 @@ With PySyft, orchestrating modeling across multiple remote devices are really ea
 It is really fun to give motivations to and be encouraged by the amazing people in this community. With that, I extend my encouragements to you all.
 
 &#35;60DaysofUdacity
+
+
+Day 41:
+------
+Progress:
+1. Not necessarily a milestone but a roadblock that I encountered during my attempt to the final project for Federated Learning lesson made me realize few things:
+    1. Using function definitions to tensors that are sent to the remote worker must also be also be sent to it.
+    2. Primitive functions like enumerate does not work on tensors located remotely (I have to confirm this tomorrow).
+2. Learned that PATE analysis toolkit of PySyft only accepts probability values (with domain 0-1). Apparently, delta values beyond that generates negative Data-Dependent Epsilon which does not make sense since it returns 0 at the minimum, meaning teacher models agree on their resulting predictions.
+
+I did not finish the project today due to the aforesaid roadblock but I think I can manage to pull it off by tomorrow.
+
+Due to several people are being frustrated of encouragements by tagging, I will not tag my awesome friends from now on. But that goes without saying that I am really happy to extend my sincerest motivation to all of you. Keep rocking guys!
+
+&#35;60DaysofUdacity
