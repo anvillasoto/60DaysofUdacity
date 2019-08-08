@@ -778,6 +778,17 @@ Progress:
 
 I did not finish the project today due to the aforesaid roadblock but I think I can manage to pull it off by tomorrow.
 
-Due to several people are being frustrated of encouragements by tagging, I will not tag my awesome friends from now on. But that goes without saying that I am really happy to extend my sincerest motivation to all of you. Keep rocking guys!
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep rocking guys!
+
+&#35;60DaysofUdacity
+
+
+Day 42:
+------
+Milestones:
+1. I participated in a meetup that is more than 2 hours long. Thank you @Hung, @ayivima and @Ingus Terbets for staying until the end. We discussed candidate datasets to be used in the project that is geared towards healthcare and discussed the plan of action to the final dataset that we decided to use in the said project.
+2. I finally finished the federated learning project. It is amazing how datasets how federated learning can be used on use cases where you want to distribute training to edge devices. The issue right now is on how to secure the focused updates that are accumulated by the master aggregator. This will be a topic of the next lesson.
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
 &#35;60DaysofUdacity
