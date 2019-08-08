@@ -786,8 +786,11 @@ I am really happy to extend my sincerest motivation to all of you that are activ
 Day 42:
 ------
 Milestones:
-1. I participated in a meetup that is more than 2 hours long. Thank you @Hung, @ayivima and @Ingus Terbets for staying until the end. We discussed candidate datasets to be used in the project that is geared towards healthcare and discussed the plan of action to the final dataset that we decided to use in the said project.
-2. I finally finished the federated learning project. It is amazing how datasets how federated learning can be used on use cases where you want to distribute training to edge devices. The issue right now is on how to secure the focused updates that are accumulated by the master aggregator. This will be a topic of the next lesson.
+1. I participated in a meetup that is more than 2 hours long as part of the #sg_novice-ai showcase project creation. With almost no initial progress, we managed to achieve the following:
+    1. Discuss candidate datasets to be used in the project that is geared towards healthcare
+    2. Selected the dataset that we can actually implement deep learning project with and 
+    3. Discussed the plan of action from there like sampling and preprocessing techniques
+2. I finally finished the federated learning project. It is amazing how how federated learning can be used on use cases where you want to distribute training across multiple remote edge devices. The issue right now is on how to secure the focused updates that are accumulated by the master aggregator, encrypting communication in the process. This will be a topic of the next lesson.
 
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
