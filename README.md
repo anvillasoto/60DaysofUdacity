@@ -786,7 +786,9 @@ I am really happy to extend my sincerest motivation to all of you that are activ
 Day 42:
 ------
 Milestones:
-1. I participated in a meetup that is more than 2 hours long as part of the #sg_novice-ai showcase project creation. With almost no initial progress, we managed to achieve the following:
+1. I participated in a meetup that is more than 2 hours long as part of the #sg_novice-ai showcase project creation. 
+![Day 42](./images/day42.png)
+With almost no initial progress, we managed to achieve the following:
     1. Discuss candidate datasets to be used in the project that is geared towards healthcare
     2. Selected the dataset that we can actually implement deep learning project with and 
     3. Discussed the plan of action from there like sampling and preprocessing techniques
