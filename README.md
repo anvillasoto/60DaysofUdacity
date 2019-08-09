@@ -804,7 +804,7 @@ Day 43:
 Milestones:
 Another busy day for us at #sg_novice-ai. We held another meetup where we cleared up several things:
 1. Downloading a large dataset for chest x-ray, a little over than 44 Gigabytes of collective zip files, extracted into one image folder for processing.
-![Day 43 01](./images/day43/day43_01.jpg)
+![Day 43 01](./images/day43/day43_01.JPG)
 2. I created a scripts for filtering datasets that we need and separating images on their respective classes.
 ![Day 43 02](./images/day43/day43_02.png)
 3. Decided on functional groups to run end-to-end pipeline mainly - (1) pre-processing, (2) data acquisition and preparation, (3) Modeling, (4) Deployment and (5) Documentation.
