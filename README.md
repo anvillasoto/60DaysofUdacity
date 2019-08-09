@@ -797,3 +797,24 @@ With almost no initial progress, we managed to achieve the following:
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
 &#35;60DaysofUdacity
+
+
+Day 43:
+------
+Milestones:
+Another busy day for us at #sg_novice-ai. We held another meetup where we cleared up several things:
+1. Downloading a large dataset for chest x-ray, a little over than 44 Gigabytes of collective zip files, extracted into one image folder for processing.
+![Day 43 01](./images/day43/day43_01.jpg)
+2. I created a scripts for filtering datasets that we need and separating images on their respective classes.
+![Day 43 02](./images/day43/day43_02.png)
+3. Decided on functional groups to run end-to-end pipeline mainly - (1) pre-processing, (2) data acquisition and preparation, (3) Modeling, (4) Deployment and (5) Documentation.
+
+Due to my work as well as my duties in the project showcase, I failed to continue my progress in the course challenge. Hopefully, I will be able to finish the course soon along with the projects. Wish me luck.
+
+Here are the images in our meetup:
+![Day 43 03](./images/day43/day43_03.png)
+![Day 43 04](./images/day43/day43_04.png)
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
+
+&#35;60DaysofUdacity
