@@ -825,10 +825,11 @@ Day 44:
 Progress:
 1. Worked on Google Colab to enable my teammates to use the dataset without having to download or rerun the script which took a lot of time (even on Colab's compute standards).
     a. It is not finished yet, so I might need to wait the Colab on its runtime before I sleep :D
+![Day 44](./images/day44.png)
 2. Setup the Google Drive API to actually upload the images returned by my script.
 3. Setup my local machine to initially model the SmogDetection project. Google Colab is busy now for the #sg_novice-ai project so I cannot use both of those.
 
-I stagnated myself to continue my progress in the challenge course. Just wait guys, I will be there. :Day
+I am still at the Encrypted Learning lesson and does not have any meaningful progress in the challenge course. Just wait guys, I will be there. I have 9 days left. :D
 
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
