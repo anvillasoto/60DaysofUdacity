@@ -834,3 +834,20 @@ I am still at the Encrypted Learning lesson and does not have any meaningful pro
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
 &#35;60DaysofUdacity
+
+
+Day 45:
+------
+Milestones:
+1. I finished the data preparation for Chest X-ray images in their respective directories using Google Colab. I used Kaggle API to download the dataset.
+2. I also uploaded the dataset in my Google Drive which took 81 Gigabytes of storage. Thankfully my organization allows for unlimited storage so all is well.
+![Day 45](./images/day45.png)
+
+My goal here is to minimize their need to redownload and re-run data preparation script which in this case took hours to run. I hope my teammates will make use of it in their modeling process.
+The script is here: https://github.com/ArseniusNott/60DaysofUdacity/blob/master/Chest_X_Ray_Data_Preparation.ipynb
+
+I am planning to finish the course tomorrow to focus on the final project. Best of luck!
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
+
+&#35;60DaysofUdacity
