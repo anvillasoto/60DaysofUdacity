@@ -841,7 +841,7 @@ Day 45:
 Milestones:
 1. I finished the data preparation for Chest X-ray images in their respective directories using Google Colab. I used Kaggle API to download the dataset.
 2. I also uploaded the dataset in my Google Drive which took 81 Gigabytes of storage. Thankfully my organization allows for unlimited storage so all is well.
-![Day 45](./images/day45.png)
+![Day 45](./images/day45.JPG)
 
 My goal here is to minimize their need to redownload and re-run data preparation script which in this case took hours to run. I hope my teammates will make use of it in their modeling process.
 The script is here: https://github.com/ArseniusNott/60DaysofUdacity/blob/master/Chest_X_Ray_Data_Preparation.ipynb
