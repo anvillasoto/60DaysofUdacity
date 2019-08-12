@@ -846,7 +846,21 @@ Milestones:
 My goal here is to minimize their need to redownload and re-run data preparation script which in this case took hours to run. I hope my teammates will make use of it in their modeling process.
 The script is here: https://github.com/ArseniusNott/60DaysofUdacity/blob/master/Chest_X_Ray_Data_Preparation.ipynb
 
-I am planning to finish the course tomorrow to focus on the final project. Best of luck!
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
+
+&#35;60DaysofUdacity
+
+
+Day 46:
+------
+Milestones:
+1. I participated in #sg_novice-ai and I am super pumped about our progress. Wetalked about how we go from data preparation to preprocessing as well as the sampling techniques, classes selection and modeling parameters.
+![day46_01](./images/day46/day46_01.png)
+![day46_02](./images/day46/day46_02.png)
+2. Finished half of the encrypted learning lesson. Will definitely finish the whole lesson tomorrow. As for the summary, I will post it in my progress tomorrow. 
+3. Good news, our paper was recently submitted for review. I am hoping for positive comments from technical reviewers. I wish my team all the best!
+![day46_03](./images/day46/day46_03.JPG)
+![day46_04](./images/day46/day46_04.JPG)
 
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
