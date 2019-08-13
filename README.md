@@ -865,3 +865,17 @@ Milestones:
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
 &#35;60DaysofUdacity
+
+
+Day 47:
+------
+1. Watched a really illuminating talk between Sebastian Thrun's interview of Fe-Fei Li about putting humans in the center of AI.
+2. Spent hours sampling the large chest X-ray dataset for #sg_novice-ai. Sleep has no match for me :D. You can look at my Colab Notebook here:
+https://github.com/ArseniusNott/60DaysofUdacity/blob/master/Chest_X_Ray_Preparation_with_Sampling.ipynb
+
+Thoughts:
+Coming from Li herself, AI is a technology that is about humans. AI therefore is not a feat of its own but rather a collective milestone of humans that should cater human values. This is technology that is about humans. That there is no independent value of AI. AI values should be human values. Lastly, an all-encompassing point of the talk, many technologies have bigger potential to enhance and augment humans, rather than replace them.
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
+
+&#35;60DaysofUdacity
