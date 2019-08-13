@@ -1,0 +1,41 @@
+> Putting Humans in the Center of AI
+
+Watched a really illuminating talk between Sebastian Thrun's interview of Fe-Fei Li about putting humans in the center of AI.
+Coming from Li herself, AI is a technology that is about humans. AI therefore is not a feat of its own but rather a collective milestone of humans that should cater human values.
+1. This is technology that is about humans. That there is no independent value of AI. AI values should be human values.
+2. Many technologies have bigger potential to enhance and augment humans, rather than replace them.
+
+Self driving cars - sensors and powerful algorithms
+healthcare - clinicians are being helped by AI by automating medical delivery
+    sensors that monitor patients and eradicate in-hospital infections.
+
+20 - 30 - 50 years in medicine
+- throughput of data
+- diagnosis, treatment plan
+- democratizing data for better research
+- assistive technology
+
+You should start knowing what your passion is and pursue that as early as you can.
+human cognitive neuroscience
+
+From small bayesian neural networks to ImageNet
+
+Resilience that researchers have to have
+
+What's wrong with AI
+60 years old
+
+AI as an interdisciplinary field
+- no longer a computer science discipline, it is an iterdisciplinary field.
+- humanities and social sciences
+
+3 Founding Principles of Human Centered AI Framework
+1. Betting on the future of ai technology should be more human inspired
+    brain science, neuroscience, cognitive science AI
+        neuralink
+2. Rethink AI as a Humanities and Social Science Field, not just CS field
+    econ, political science for social impact
+    understand how AI impacts our life
+3. Design technologies with AI that augments and enhances humans, not to replace us.
+    Education, healthcare, automation and manufacturing and sustainability
+

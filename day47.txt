@@ -1,0 +1,9 @@
+1. Trusted aggregator - A neutral 3rd party who has a machine that we can trust to not look at the gradients when performing aggregation
+
+
+having problems with PySyft
+
+https://github.com/OpenMined/PySyft/issues/2156
+
+solution:
+pip install --force-reinstall --upgrade --no-dependencies pysyft
