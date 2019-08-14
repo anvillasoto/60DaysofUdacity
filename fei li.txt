@@ -1,8 +1,9 @@
 > Putting Humans in the Center of AI
 
 Watched a really illuminating talk between Sebastian Thrun's interview of Fe-Fei Li about putting humans in the center of AI.
-Coming from Li herself, AI is a technology that is about humans. AI therefore is not a feat of its own but rather a collective milestone of humans that should cater human values.
-1. This is technology that is about humans. That there is no independent value of AI. AI values should be human values.
+
+Coming from Li herself, AI is a technology that is about humans. AI therefore is not a feat of its own but rather a collective milestone of humans that should cater human values. This is really important on a couple of things:
+1. People said that AI will eventually replace jobs but the truth is, AI is complementary. From self-driving cars that does not kill jobs but actually generate more jobs. Also to physicians and medical researchers that benefit from AI products to eradicate in-hospital infections and automating medical delivery without hurting medical workforce.
 2. Many technologies have bigger potential to enhance and augment humans, rather than replace them.
 
 Self driving cars - sensors and powerful algorithms
