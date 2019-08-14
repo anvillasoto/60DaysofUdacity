@@ -879,3 +879,19 @@ Coming from Li herself, AI is a technology that is about humans. AI therefore is
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
 &#35;60DaysofUdacity
+
+
+Day 48:
+------
+Milestones
+1. I started on using Google Cloud Platform' Cloud Vision API as benchmark for Optical Character Recognition that will be used by our organization in our myriad of services. I am really excited to utilize set of services that in the future will help me create my own computer vision model.
+2. I finally finished the Securing Federated Learning lesson from the challenge.
+3. Participated in a lengthy discussion for our showcase project and clarified some interesting insights from the dataset that we have. Upon checking with the data, I adjusted the preparation requirements accordingly and recreated the dataset for our purpose. Here is the link of my preparation notebook:
+https://github.com/ArseniusNott/60DaysofUdacity/blob/master/Chest_X_Ray_Data_Preparation_with_9_Classess_accounting_for_Effusion's_View_Position.ipynb
+
+Reflection:
+With most of my free time devoted into comprehensive discussion with my peers, I realize that this really proves that a team with diverse set of skills and specialities will definitely have great progress creating amazing things. And I am proud to say that we are doing just that. Kudos to my team at #sg_novice-ai for our good works.
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
+
+&#35;60DaysofUdacity
