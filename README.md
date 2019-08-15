@@ -895,3 +895,22 @@ With most of my free time devoted into comprehensive discussion with my peers, I
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
 &#35;60DaysofUdacity
+
+
+Day 49:
+------
+Milestones:
+1. I recently created a MEAN stack application that consumes a Google Cloud Vision API to extract texts from images using DOCUMENT_TEXT_DETECTION optimized for dense text and documents.
+I was pretty challenged by working with authentication using Node since documentation is largely inconsistent between the official documents and sample code. Maybe Google can democratize their documentation so that enthusiasts can rectify errors and inconsistencies. This really wasted a significant amount of time.
+2. Since the model team in sg_novice-ai acquired not so good validation accuracy due to limited data, I regenerated a dataset using my script. Have a look at the dataset structure in the images below. Also, here it my notebook:
+https://github.com/ArseniusNott/60DaysofUdacity/blob/master/Chest%20X-Ray%20Dataset%20Preprocessing/04_Chest_X_Ray_Data_Preparation_with_8_Classess_Increased_Images.ipynb
+![Day 49 01](./images/day49/01.JPG)
+![Day 49 02](./images/day49/02.JPG)
+![Day 49 03](./images/day49/03.JPG)
+
+Guys, I recently got an email from Amazon giving me $25 AWS credits for being part of the recent AWS Innovate Online Conference.
+![Day 49 04](./images/day49/04.JPG)
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
+
+&#35;60DaysofUdacity
