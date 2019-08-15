@@ -908,7 +908,8 @@ https://github.com/ArseniusNott/60DaysofUdacity/blob/master/Chest%20X-Ray%20Data
 ![Day 49 02](./images/day49/02.JPG)
 ![Day 49 03](./images/day49/03.JPG)
 
-Guys, I recently got an email from Amazon giving me $25 AWS credits for being part of the recent AWS Innovate Online Conference.
+Guys, I recently got an email from Amazon giving me $25 AWS credits for being part of the recent AWS Innovate Online Conference. This is pretty nice.
+
 ![Day 49 04](./images/day49/04.JPG)
 
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
