@@ -915,3 +915,16 @@ Guys, I recently got an email from Amazon giving me $25 AWS credits for being pa
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
 &#35;60DaysofUdacity
+
+
+Day 50:
+------
+1. I joined the meeting arranged by my good friends at #sg_goodfellows. Since the members are not synced yet with the reading progress of the Deep Learning book, we devised a plan to engage members with learning by dividing the members per group chapter where each is responsible for creating quizzes to test our understanding per chapter.
+![Day 50 01](./images/day50/day50_01.png)
+2. I recently joined another virtual meeting from my good friends at #sg_novice-ai. We are now on the modeling stage using the data subset that I generated. We discussed plans on how can we implement a real-world application of federated learning with our current use case. Several suggestions are really interesting and I hope that this could continue even after the challenge.
+![Day 50 02](./images/day50/day50_02.png)
+3. I am really happy to announce that the Optical Character Recognition application that I am doing for the past few days for our organization has been implemented and is currently being used now. I am getting good feedback so far as the system really helps in minimizing the time of my peers to count words in documents. This will really be a good direction for me to look at and I am really excited.
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys! This marks my day 50 of 60 Days Challenge. Keep going guys!
+
+&#35;60DaysofUdacity
