@@ -928,3 +928,21 @@ Day 50:
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys! This marks my day 50 of 60 Days Challenge. Keep going guys!
 
 &#35;60DaysofUdacity
+
+
+Day 51:
+------
+One Major Milestone:
+Today, I finished the whole course challenge, finishing the Encrypted Deep Learning course. It took me very long to finish the whole course due since I want to finish challenge projects on my own. Although I did not finish the keystone project due to showcase project deadline. Still, my NLP project is underway that I thought federated learning would be a good use case for that.
+![Day 51](./images/day51.JPG)
+
+Summary:
+Now I realized that Secure and Private AI is not only about differential privacy. It is a collection of techniques that have strengths and weaknesses depending on the goals of privacy, trusts configuration, ease of implementation and the actors who will participate in achieving privacy-preserving data pipelines. Following the summary of Andrew Trask, I listed down these techniques and how they blend in to the aforementioned trade-offs:
+1. PATE - useful when we want to label our datasets by utilizing private datasets or datasets that are sensitive in nature, effectively aggregating each output by some aggregation techniques (majority vote as the most common).
+2. Epsilon-Delta Tool - useful when we want to constrain the access to our sensitive data or the other way around by assigning parameters epsilon and delta, adhering to the formal definition of privacy. These parameters determine how much data owners must trust data modelers/researchers to protect their privacy in the process of learning. 
+3. Vanilla Federated Learning - useful when we don't want to aggregate collective training data for legal, social and logistic reasons so one must setup multiple actors that will share modeling process, then aggregate model information to a trusted aggregator. This requires a little bit of trust especially to the aggregator to not leak model information across actors.
+4. Secure additive aggregation - useful when you solve privacy issues in federated learning by doing field additive aggregation techniques to encrypts model information so trusted aggregators cannot glean on raw gradients sent by federated nodes. 
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
+
+&#35;60DaysofUdacity
