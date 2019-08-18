@@ -342,7 +342,6 @@ Learnings:
 3. From the complicated models with expectantly high values for each of the aforementioned hyperparameters, we start to play with these values to get the best model.
 
 This is a rather long day for an introduction. But it is worth it nonetheless. Plus the fact that I won again in Boom with the Basics Challenge care of @Khush and @Jordi F. Thank you for selecting my answer.
-I would like to encourage @Frida, @PaulBruce, @Stark and @Khush to keep up their good works.
 
 &#35;60DaysofUdacity
 
@@ -365,8 +364,6 @@ Milestones:
 
 Motivation for learning sentiment analysis in R:
 1. Since sentiment analysis as per Silge's book is dependent on general-purpose lexicons and now that I am exploring the penultimate chapter of the Intro to Deep Learning with Pytorch which concerns the same task, it would be interesting to compare how simple (in this case the book's implementation) vs complicated models (in this case the course lesson outcome) handle sentiment analysis.
-
-I would like to encourage @Frida, @PaulBruce, @Stark and @Khush to keep up their good works.
 
 &#35;60DaysofUdacity
 
@@ -399,8 +396,6 @@ Using Python:
 
 Given all these, it depends upon the scenario whether we prefer simple or complex models in doing sentiment analysis. The most important thing here is that we have options, and options are good! :)
 
-I would like to encourage @Frida, @PaulBruce, @Khush, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
-
 &#35;60DaysofUdacity
 
 
@@ -419,7 +414,6 @@ Lastly, for the third time in a row, I won again in the Boom with the Basics cha
 
 ![Day 27](images/day27.JPG)
 
-I would like to encourage @Frida, @PaulBruce, @Stark, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
 
 &#35;60DaysofUdacity
 
@@ -446,7 +440,6 @@ But before the project, I need to refresh my memory on Secure and Private AI cou
 Bonus: I recently got my certificate in the recent AWS Innovate 2019 Online conference. 
 ![Day 28 b](images/day28/day28_b.JPG)
 
-I would like to encourage @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima and @Carlo David to keep up their good works.
 
 &#35;60DaysofUdacity
 
@@ -466,8 +459,6 @@ Learnings:
 5. The goal of this promise is that if we have some private or sensitive parameters, we are concerned on tools and techniques that can be applied in order to get the best of both worlds, information security and freedom to initiate and communicate findings of statistical analyses.
 
 It is a long day, but worth it nonetheless.
-
-I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima and @Carlo David. Keep up your good works!
 
 &#35;60DaysofUdacity
 
@@ -495,7 +486,6 @@ This I think is a complement of differential privacy. That we must not prioritiz
 
 This marks the first half of #60DaysofUdacity and it is really awesome so far!
 
-I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima, @Carlo David, @THIYAGARAJAN R and @Akshay Pal. Keep up your good works!
 
 &#35;60DaysofUdacity
 
@@ -513,8 +503,6 @@ Learnings:
     2. There is a threshold check in differential attacks because first, it works. You can find the difference of a query applied to a database with one removed vs the original query by any function really, could be sum, could be mean or for the sake of example, could be threshold.
 
 Let me guys know what you think.
-
-I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima and @Carlo David. Keep up your good works!
 
 &#35;60DaysofUdacity
 
@@ -537,8 +525,6 @@ PS. For the fourth time, I won again in Boom with the Basics.
 
 ![Day 32 a](images/day32/day32_01.JPG)
 ![Day 32 b](images/day32/day32_02.JPG)
-
-I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima, @Carlo David, and @Labiba. Keep up your good works!
 
 References:
 1. [Database Privacy: Microsoft Research](http://research.microsoft.com/en-us/projects/databaseprivacy/)
@@ -564,10 +550,6 @@ And our post-meeting selfies:
 
 Self Reflection:
 I used Slack in my work. For publishing announcements and communicating with the rest of the team. Nothing more than a communication tool. I could not imagine that Slack could be more than that. A virtual space conducive to learning with inspiring people keeping you motivated every time. 
-
-Speaking of motivation, I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @Jaiki Yadav, @ayivima, @Carlo David, and @Labiba. Keep up your good works!
-
-And to my newfound friends: @Jess @shahnoza @AbdElrhman @Munira Omar @David Ashraf @Sarah Majors @Hitoishi Das @Sourav @Nouran El Kassas  @Shivam Raisharma @Md. Mahedi Hasan Riday, I would also like to encourage you to keep up your good works! Cannot wait to meet you again.
 
 &#35;60DaysofUdacity
 
@@ -598,8 +580,6 @@ This is a little Mathy so I stopped reading it (sorry :D). But I perused this ma
 >https://journalprivacyconfidentiality.org/index.php/jpc/article/download/666/660/
 
 God I hope I could meet her someday!
-
-I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday. Keep up your good works!
 
 &#35;60DaysofUdacity
 
@@ -632,8 +612,6 @@ As Cynthia Dwork puts it, we have truth and a blurred version of truth and the b
 
 Disclaimer: Instant feedback for those who think this is not accurate enough and we'll favor accuracy by limiting noise accordingly. :D
 
-I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan. Keep up your good works!
-
 &#35;60DaysofUdacity
 
 
@@ -657,8 +635,6 @@ Solutions:
     5. Since we have the augmented labels already, we can do PATE analysis to compute privacy leakage (more on this tomorrow).
 2. The output of this differentially private query will be the ground truth and basis/labels for the local classification model. This assumes that the scenario is the classification algorithm has no labels and must depend on databases that would leaks private information.
 3. Interesting Note: Outputs of epsilon-differentially private queries will be immune to post-processing. Meaning that no amount of further processing to be done in the differentially private outputs that will uncover specific information from the dataset.
-
-I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan. Keep up your good works!
 
 &#35;60DaysofUdacity
 
@@ -692,8 +668,6 @@ And hey, here are the pictures of our meetup.
 ![Day 37 03](./images/day37/day37_03.png)
 ![Day 37 04](./images/day37/day37_04.png)
 
-I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan, @LauraT. Keep up your good works!
-
 &#35;60DaysofUdacity
 
 
@@ -713,8 +687,6 @@ Learnings:
 6. PATE analysis has this nifty trick of computing the level of agreement between different teacher models.
 
 This is really a stretch and an added friction for training models as simple as MNIST but that is what you pay for achieving privacy. I learned a lot about this project.
-
-I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan, @LauraT, @Akshay Rajmohan, @Agata [OR, USA], @Shudipto Trafder, @Akash Antony, @Sayed Maheen Basheer,  @Pooja Vinod @Viper @Berenice @sourav kumar, @Hung, Ingus Terbets, @Shaam, @Archit. Keep up your good works!
 
 &#35;60DaysofUdacity
 
@@ -738,8 +710,6 @@ PS. For the 6th time, I won again in the Boom with the Basics Challenge care of 
 
 ![Day 39 08](./images/day39/day39_08.JPG)
 ![Day 39 09](./images/day39/day39_09.JPG)
-
-I would like to extend my encouragements to these amazing people: @Stark, @Frida, @PaulBruce, @ayivima, @Carlo David, @Labiba, @Jess, @shahnoza, @AbdElrhman, @Munira Omar, @David Ashraf, @Sarah Majors, @Hitoishi Das, @Sourav, @Nouran El Kassas,  @Shivam Raisharma, @Md. Mahedi Hasan Riday, @Temitope Oladokun, @Akshay Pal, @Patrick Rashidi, @Erjan, @LauraT, @Akshay Rajmohan, @Agata [OR, USA], @Shudipto Trafder, @Akash Antony, @Sayed Maheen Basheer,  @Pooja Vinod @Viper @Berenice @sourav kumar, @Hung, Ingus Terbets, @Shaam, @Archit. Keep up your good works!
 
 &#35;60DaysofUdacity
 
@@ -942,6 +912,20 @@ Now I realized that Secure and Private AI is not only about differential privacy
 2. Epsilon-Delta Tool - useful when we want to constrain the access to our sensitive data or the other way around by assigning parameters epsilon and delta, adhering to the formal definition of privacy. These parameters determine how much data owners must trust data modelers/researchers to protect their privacy in the process of learning. 
 3. Vanilla Federated Learning - useful when we don't want to aggregate collective training data for legal, social and logistic reasons so one must setup multiple actors that will share modeling process, then aggregate model information to a trusted aggregator. This requires a little bit of trust especially to the aggregator to not leak model information across actors.
 4. Secure additive aggregation - useful when you solve privacy issues in federated learning by doing field additive aggregation techniques to encrypts model information so trusted aggregators cannot glean on raw gradients sent by federated nodes. 
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
+
+&#35;60DaysofUdacity
+
+
+Day 52:
+------
+Milestones:
+1. I created a simple interface to the final project for #sg_planetearth and the response to my peers is pretty positive.
+![Day 52 01](./images/day52/day52_01.png)
+2. Updated the documentation for #sg_novice-ai showcase project. I was assigned to delineate future works for federated learning using remote devices. Since I had experience working with Raspberry Pi, I proposed it to be used in federated aspect of model improvement.
+3. Participated in a meetup for #sg_novice-ai where we clarified things such as documentation and model deployment. I think we are almost ready to submit our project now. I am glad to be part of an amazing team.
+![Day 52 02](./images/day52/day52_02.png)
 
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
