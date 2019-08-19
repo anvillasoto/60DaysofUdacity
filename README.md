@@ -930,3 +930,19 @@ Milestones:
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
 &#35;60DaysofUdacity
+
+
+Day 53:
+------
+Milestone:
+1. Modified the output of smog4000's user interface to simulate real-world use case. In that, the interface now outputs friendly messages:
+    a. For smog, we have "Smog detected. Please drive safe." and 
+    2. For clear, we have "Road is clear. Have a safe trip."
+2. Our text extractor system had a complete makeover now. I am in the process of deploying this mini application to a Nanode Linode server with Node.js backend.
+![Day 53](./images/day53.JPG)
+
+Not much has happened this day due to sickness. But I will try to be more productive soon. Stay tuned!
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
+
+&#35;60DaysofUdacity
