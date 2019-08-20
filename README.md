@@ -946,3 +946,17 @@ Not much has happened this day due to sickness. But I will try to be more produc
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
 &#35;60DaysofUdacity
+
+
+Day 54:
+------
+Milestones:
+1. It was a busy day at #sg_novice-ai. I participated in modifying the final documentation for our showcase project. Discussed also how we can continue this in the future. We have a great future ahead of us and I am really excited.
+2. I talked with my teammates from #sg_planetearth where we are also getting ready for the final documentation before submission. 
+3. Explored [Apache OpenNLP](https://opennlp.apache.org/docs/1.9.1/manual/opennlp.html) distribution. I came across this when I am finding fast solutions for word counter in multiple languages. This is really promising. Unfortunately, it is basely written in Java so I need to find solutions for this that can be used directly in Python. I am sure there is one. After all this is just a preliminary perusal.
+
+I am back in business now after a one-day sickness. I have now the energy to start my project.
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
+
+&#35;60DaysofUdacity
