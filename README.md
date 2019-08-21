@@ -960,3 +960,15 @@ I am back in business now after a one-day sickness. I have now the energy to sta
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
 &#35;60DaysofUdacity
+
+
+Day 55:
+------
+1. Watched two videos from PBS CrashCourse about AI. I thought I exhausted enough resources for the introduction in AI. Turns out that I have not learned some of it yet. The course talked about the history of single neuron (or perceptron) and a historical attempt to implement and construct machines for it wayback 1958. Video also visually explains the differences between precision and recall using bagels and doughnuts. Really cool guys. Check them out!
+[What Is Artificial Intelligence? Crash Course AI #1](https://www.youtube.com/watch?v=a0_lo_GDcFw) and [Supervised Learning: Crash Course AI #2](https://www.youtube.com/watch?v=4qVRBYAdLAo)
+2. Read my capstone documentation for the Data Science Specialization that talks about predictive text modeling. This is the preprocessing part of the project and I am now on the works to build an LSTM model using one-grams I generated in this data preprocessing document. Of course, using Python. You can also read this if you like. Unfortunately, data preprocessing is written in R so I might need to port preprocessing on Python for the project to be truly reproducible.
+https://rpubs.com/Eulerium/456745
+
+I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
+
+&#35;60DaysofUdacity
