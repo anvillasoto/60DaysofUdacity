@@ -972,3 +972,18 @@ https://rpubs.com/Eulerium/456745
 I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys!
 
 &#35;60DaysofUdacity
+
+
+Day 56:
+------
+Milestone:
+From the depths of my directories, I finally found the cleaned one-gram tokens that I used in my next-word prediction project. I started the preprocessing late but I have so much energy to spare. Colab is on fire right now.
+
+I am preprocessing a 500 Megabyte one-gram tokens that I consolidated and cleaned many months before. Document on how I did this can be found [here](http://rpubs.com/Eulerium/456745). My goal is to do predictive text modeling using LSTMs and to productize a more robust version of my SmartPredict application. Preprocessing has been done anyway so probably I have to sleep
+![Day 56](./images/day56.png)
+
+PS. It is an incredible day at #sg_novice-ai. Someone who answers to the name of Andrew Trask commended our project and starred our repository. It is really a confidence booster after all those sleepless nights. Hope that we would win the project showcase challenge.
+
+Four more days to go before the 60th! I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys! 
+
+&#35;60DaysofUdacity
