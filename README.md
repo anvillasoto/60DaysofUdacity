@@ -987,3 +987,15 @@ PS. It is an incredible day at #sg_novice-ai. Someone who answers to the name of
 Four more days to go before the 60th! I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys! 
 
 &#35;60DaysofUdacity
+
+
+Day 57:
+------
+It was another meeting for us at #sg_novice-ai. But instead of brainstorming with the project it is kind of celebratory for us. Everyone is really pumped to go on the next steps as well as the future of the team. It turns out that we are inclined into solving healthcare datasets from X-ray to Blindness datasets from data curators like Kaggle. We also created a plan for the challenge course review with topics divided among teams in a three day webinar. 
+
+As for the NLP project, I am now in the model definition. For the sample dataset this may be overwhelming but let see how Google Colab holds up.
+![Day 57](./images/day57.JPG)
+
+Three more days to go before the 60th! I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys! 
+
+&#35;60DaysofUdacity
