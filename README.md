@@ -999,3 +999,18 @@ As for the NLP project, I am now in the model definition. For the sample dataset
 Three more days to go before the 60th! I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys! 
 
 &#35;60DaysofUdacity
+
+
+Day 58:
+------
+Milestones:
+1. Geared towards minimizing the one-grams to be used in the next-word prediction that I created last night. Somehow, during training, Google Colab crashed with an unknown error and found out that it is a runtime error for out of memory. LSTMs can only handle much input features. Will decrease the number of hidden units and see if it works.
+2. The text extractor that I created for our organization is now up on the cloud. Somehow, the dependencies for flattening PDF pages to images cannot be ported from Windows to Linux environments so I spent a great deal of bug fixing in the to rectify that in the server. I used Nanode Linode instance 1 GB of server ram and 1 server instance CPU. Surprisingly, preprocessing for large files on the upwards of 10 Megabytes can be handled by the server seamlessly. That is why I love node. It is lightweight enough that even the most demanding tasks can be done in small memory and processing footprint.
+
+![Day 58 01](./images/day58/day58.JPG)
+
+![Day 58 02](./images/day58/day58_02.JPG)
+
+TWO more days to go before the 60th! I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys! 
+
+&#35;60DaysofUdacity
