@@ -1014,3 +1014,22 @@ Milestones:
 TWO more days to go before the 60th! I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys! 
 
 &#35;60DaysofUdacity
+
+
+Day 59:
+------
+Milestones:
+1. Interesting improvements on my Next Word Prediction project. Decreasing the number of hidden layers and batches worked for my runtime limitations for Google Colab. The network is training now for larger dataset but interestingly, for sample data, the model predicts really well. Check this out:
+![Day 59 00](./images/day59/day59_00.JPG)
+
+2. Attended the meetup by #sg_novice-ai about the review in Deep Learning with PyTorch. @Pooja, @K.S. and @Labiba did an amazing job explaining PyTorch training from ground up specifically:
+    a. Introduction to PyTorch and defining a simple model using MNIST
+    b. Defining pretrained models in solving real-world problems particularly the Kaggle APTOS challenge
+
+![Day 59 01](./images/day59/day59_01.JPG)
+
+![Day 59 02](./images/day59/day59_02.JPG)
+
+This is the penultimate day! I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys! 
+
+&#35;60DaysofUdacity
