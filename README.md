@@ -1033,3 +1033,20 @@ Milestones:
 This is the penultimate day! I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys! 
 
 &#35;60DaysofUdacity
+
+
+Day 60:
+------
+Milestones:
+1. Gearing towards putting my lightweight next word prediction model on the cloud now. I happened to do this before on shiny in R but I am getting the same inspiration and the same model prediction logic for the app. Have a look at the interface:
+
+![Day 60](./images/day60.png)
+
+2. Participated in #sg_novice-ai documentation team for the project showcase challenge popularity score pitch. It was a lot of fun being with such talented people.
+3. Watched the video [Dusting for Fingerprints in Private Data by Jon Ullman](https://www.youtube.com/watch?v=ERcZHRYZj18&list=PLdDZb3TwJPZ7Ug5Ydu1j9V1m_RgtW7C9_&index=6). This is really a huge and scary feat of computer science where entire dataset can be reconstructed given too many overly accurate statistics of the from the works of Dinur and Nissim in 2003. All the more reason why we need differential privacy and secured federated learning right now. It is a more robust alternative since as Dwork had put it, de-identified dataset isn't. 
+
+P.S. I participated in the last Boom with the Basics in the beginners channel. It is bittersweet since that is the last one. Thank you for that amazing initiative. It really improved my communication skills especially when you want to communicate complicated topics in a beginner-friendly way.
+
+This marks the last day of #60DaysofUdacity challenge! I am really happy to extend my sincerest motivation to all of you that are actively sharing your progress for this challenge. By reading your awesome learnings, you keep me motivated. Keep making your progress guys! 
+
+&#35;60DaysofUdacity
