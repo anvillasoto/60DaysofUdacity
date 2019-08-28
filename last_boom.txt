@@ -1,0 +1,15 @@
+In every modeling, we always want to have the least amount of features that will have the best predictive power rather than accounting for all of them which compounds noise in the process. Variance thresholding is a dimensionality reduction strategy that accounts for high variance predictors based on a predefined variance threshold. This feature selection algorithm looks only at the features and not the desired outputs. And in the case of clustering where we do not have labels to begin with, this can be a good strategy in that, low variance features will get you nothing in the training phase. The use of a threshold in this case depends on the number of features and the nature of the dataset itself so it is more of an art than science.
+
+
+In order for the model to generalize well, we need coefficients or weights to be relatively smaller to all of the predictors that we will use in the model since very large weight coefficients tend to overwhelm the model by fitting to the noise rather than the general truth (overfitting in a nutshell). Thus, to prevent weights from growing too large, we need a regularization method. One of which is a weight decay method that penalizes large weights by adding a regularization term which is a product of lamda or the decay parameter and the sum of the squared weights. Lambda ranges from zero to one but in researches, it is lambda with approximately 0.000001 is used.
+
+In image processing, upsampling refers to the method of increasing the resolution of an image while keeping its two-dimensional representation. Very simply, this will just increase the resolution of the image, eliminating the pixelated effect by anti-aliasing, utilizing the same data from the original image. We do this by utilizing an upsampling filter or an anti-aliasing filter or through zero-stuffing.
+
+
+Decreasing the variance of the model is not just the one that we should account for. It is also important to decrease the variance. After all, it is called bias-variance trade-off and it is important to have a sweet spot between them. But the question is decreasing the variance so here we go:
+
+High variance refers to overfitting so what are the mechanisms to not overfit?
+1. Limit the number of predictors. If you are doing classification and you have many predictors, the variance of the variance estimate will be high does lead to overfitting. Regularization and dimensionality reduction strategies work here.
+2. Reduce the variance of the model by introducing a bias. There are many strategies for this per algorithm but like I said, you can't choose one without the other.
+3. Do ensemble predictions - this is one that I use to decrease overfitting. Basically you account for many weak learners, each of them having low variance to build a strong model that definitely generalizes well. Bagging and boosting strategies work here. Lastly,
+4. Look at the data
