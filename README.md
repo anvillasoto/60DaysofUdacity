@@ -1059,9 +1059,9 @@ Day 61:
 ------
 Milestone:
 1. Yesterday, I hosted a webinar about differential privacy together with @Ingus Terbets. It is a breath of a renewed fresh air especially since I lectured at a university in one semester about a year ago. Thank you @ayivima and the audience that we had in appreciating our efforts. It was really a great experience.
-![Day 61 01](day61_01.JPG)
+![Day 61 01](./images/day61/day61_01.JPG)
 2. I participated today in Federated Learning webinar by @Oudarjya Sen Sarma, @Anju Mercian and @Shudipto Trafder. It was a great refresher.
-![Day 61 02](day61_02.png)
+![Day 61 02](./images/day61/day61_02.png)
 
 This is my 61st day and we have few days left. Keep on learning guys and reach our learning goals well. 
 
